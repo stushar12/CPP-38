@@ -32,7 +32,7 @@ int main()
         storage=storage+(min(lmax[i],rmax[i])-arr[i]);
     }
 
-    cout<<storage<<endl;
+    cout<<storage<<endl; 
 
 }
 }
